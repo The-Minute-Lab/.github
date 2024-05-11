@@ -5,4 +5,5 @@
 
 - [x] (The Minute Lab): [LICENSE](https://github.com/The-Minute-Lab/.github/blob/main/LICENSE)
 - [x] (The Minute Lab): [Code Of Conduct](https://github.com/The-Minute-Lab/.github/blob/main/CODE_OF_CONDUCT.md)
+- [x] (The Minute Lab): [Contribution Guidelines](https://github.com/The-Minute-Lab/.github/blob/main/CONTRIBUTING.md)
 - [x] (The Minute Lab): [Organization Github README](https://github.com/The-Minute-Lab/.github/blob/main/profile/README.md)
