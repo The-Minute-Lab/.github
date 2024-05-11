@@ -1,5 +1,5 @@
 > [!important]
-> The organization is currently being setup in order to enable easy and smooth contributions. Kindly give us a while we try to make **The Minute Lab** a welcoming community. Your patience is appreicated and we hope to see you as a part of the community.
+> The organization is currently being setup in order to enable easy and smooth contributions. Kindly give us a while to try and make **The Minute Lab** a welcoming community. Your patience is appreicated and we hope to see you as a part of the community.
 
 # Welcome to The Minute Lab 👋
 ![The Minute Lab Banner](https://github.com/The-Minute-Lab/.github/assets/75054354/8d5d7a15-a263-45e4-b687-9f4581c213b6)
