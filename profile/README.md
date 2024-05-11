@@ -1,4 +1,4 @@
-## Welcome to The Minute Lab 🚀
+# Welcome to The Minute Lab 🚀
 ![The Minute Lab Banner](https://github.com/The-Minute-Lab/.github/assets/75054354/8d5d7a15-a263-45e4-b687-9f4581c213b6)
 
 [![Slack](https://img.shields.io/badge/slack-@your_organization--community-yellow.svg)](https://your-slack-link-here/)
