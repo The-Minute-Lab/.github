@@ -12,10 +12,6 @@
 
 At **The Minute Lab**, our mission is to provide an open-source platform that serves as a comprehensive resource hub for coding enthusiasts and developers. We offer a diverse range of open-source resources, including **coding tutorials**, **libraries**, and **packages** tailored for various programming languages along with tools and frameworks designed for **personal use**, **startups**, **NGOs**, and anyone seeking tech oriented solutions. Our commitment to open-source principles aims to ensure accessibility and collaboration by empowering individuals and organizations to innovate and succeed in their endeavors.
 
-## About Us
-
-[Organization Name] is a vibrant community dedicated to fostering growth, collaboration, and innovation in the world of technology. Our diverse team of experts is committed to curating and creating open-source software, libraries, and frameworks to support developers at every stage of their journey.
-
 ## What We Offer
 
 ### 1. Coding Tutorials
