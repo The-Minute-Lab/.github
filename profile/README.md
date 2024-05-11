@@ -7,7 +7,7 @@
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 -->
 
-At **The Minute Lab**, our mission is to provide an open-source platform that serves as a comprehensive resource hub for coding enthusiasts and developers. We offer a diverse range of open-source resources, including coding tutorials, libraries, and packages tailored for various programming languages along with tools and frameworks designed for personal use, startups, NGOs, and anyone seeking technological solutions. Our commitment to open-source principles ensures accessibility and collaboration, empowering individuals and organizations to innovate and succeed in their endeavors.
+At **The Minute Lab**, our mission is to provide an open-source platform that serves as a comprehensive resource hub for coding enthusiasts and developers. We offer a diverse range of open-source resources, including coding tutorials, libraries, and packages tailored for various programming languages along with tools and frameworks designed for personal use, startups, NGOs, and anyone seeking tech oriented solutions. Our commitment to open-source principles aims to ensure accessibility and collaboration by empowering individuals and organizations to innovate and succeed in their endeavors.
 
 ## About Us
 
