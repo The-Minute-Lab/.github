@@ -1,12 +1,13 @@
-# Welcome to The Minute Lab 🚀
+# Welcome to The Minute Lab 👋
 ![The Minute Lab Banner](https://github.com/The-Minute-Lab/.github/assets/75054354/8d5d7a15-a263-45e4-b687-9f4581c213b6)
 
-[![Slack](https://img.shields.io/badge/slack-@your_organization--community-yellow.svg)](https://your-slack-link-here/)
-[![Twitter](https://img.shields.io/badge/twitter-@your_organization--twitter-9cf.svg)](https://twitter.com/your_twitter)
-[![LinkedIn](https://img.shields.io/badge/linkedin-@your_organization--LinkedIn-lightgray.svg)](https://www.linkedin.com/company/your_organization)
-[![YouTube](https://img.shields.io/badge/youtube-@your_organization--youtube-red.svg)](https://www.youtube.com/channel/your_youtube_channel)
+<!--
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+-->
 
-[Organization Name]'s mission is to empower developers and organizations by providing high-quality resources and tools for coding, development, and innovation.
+At **The Minute Lab**, our mission is to provide an open-source platform that serves as a comprehensive resource hub for coding enthusiasts and developers. We offer a diverse range of open-source resources, including coding tutorials, libraries, and packages tailored for various programming languages along with tools and frameworks designed for personal use, startups, NGOs, and anyone seeking technological solutions. Our commitment to open-source principles ensures accessibility and collaboration, empowering individuals and organizations to innovate and succeed in their endeavors.
 
 ## About Us
 
