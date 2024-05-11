@@ -14,6 +14,8 @@
 
 At **The Minute Lab**, our mission is to provide an open-source platform that serves as a comprehensive resource hub for coding enthusiasts and developers. We offer a diverse range of open-source resources, including **coding tutorials**, **libraries**, and **packages** tailored for various programming languages along with tools and frameworks designed for **personal use**, **startups**, **NGOs**, and anyone seeking tech oriented solutions. Our commitment to open-source principles aims to ensure accessibility and collaboration by empowering individuals and organizations to innovate and succeed in their endeavors.
 
+👉 Want to get started right away? Take a look at [The Minute Lab: Resource Page](https://github.com/The-Minute-Lab/.github/blob/main/README.md) 
+
 ## Get Involved
 
 **The Minute Lab** thrives on community participation and collaboration. Join us to contribute, learn, and grow together!
@@ -25,8 +27,5 @@ At **The Minute Lab**, our mission is to provide an open-source platform that se
 
 ## Contact Us
 
-As a developer you can use Github issues and discussions on the respective projects to report bugs, request features, and discuss changes. We value feedback, questions, and collaboration. Feel free to reach out to us through the following channels.
-
-- **Email:** [theminutelab@gmail.com](mailto:theminutelab@gmail.com)
-- **GitHub Discussions:** Engage with us and the community on [GitHub Discussions](https://github.com/orgs/The-Minute-Lab/discussions).
+As a developer you can use Github Issues and discussions on the respective projects to report bugs, request features, and discuss changes. We value feedback, questions, and collaboration. Feel free to reach out to us either by dropping a mail at [theminutelab@gmail.com](mailto:theminutelab@gmail.com) or taking help from the community on the [Community GitHub Discussions](https://github.com/orgs/The-Minute-Lab/discussions) forum.
 
